@@ -89,6 +89,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gmkhizar19/gmkhizar19/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gmkhizar19/gmkhizar19/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ###
