@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -79,7 +79,7 @@
 
 ###
 
-<h4 align="left">Streak:</h4>
+<h3 align="left">Streak:</h3>
 
 ###
 
@@ -89,6 +89,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gmkhizar19/gmkhizar19/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmkhizar19/gmkhizar19/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmkhizar19/gmkhizar19/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gmkhizar19/gmkhizar19/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
